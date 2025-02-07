@@ -11,3 +11,8 @@ Drag & drop the folder named "infinity-world" into your server's resource folder
 
 # Dependencies
 [ox_lib](https://github.com/overextended/ox_lib)
+
+# Permissions
+Add the following to your server.cfg 
+- add_ace group.admin command.settime allow
+- add_ace group.admin command.setweather allow
