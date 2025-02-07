@@ -1,0 +1,11 @@
+RegisterNetEvent('48dev-world:setTime')
+AddEventHandler('48dev-world:setTime', function(hour, minute)
+    NetworkOverrideClockTime(hour, minute, 0)
+end)
+
+RegisterNetEvent('48dev-world:setWeather')
+AddEventHandler('48dev-world:setWeather', function(weatherType)
+    ClearOverrideWeather()
+    ClearWeatherTypePersist()
+    SetWeatherTypeOvertimePersist(weatherType, 10.0)
+end)
