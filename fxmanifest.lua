@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Infinity Development'
-description 'Time and Weather Control'
-version '2.0.2'
+description ''
+version ''
 lua54 'yes'
 
 shared_script '@ox_lib/init.lua'
