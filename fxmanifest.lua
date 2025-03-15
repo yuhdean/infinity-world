@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'AtlasDev'
+author 'Dean'
 
 lua54 'yes'
 
