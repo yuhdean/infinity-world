@@ -1,4 +1,4 @@
-# infinity-world
+# synergy-world
 World Management System for your FiveM Server
 
 # Commands & Usage
@@ -7,7 +7,7 @@ World Management System for your FiveM Server
 /setweather [(refer to this link for weather types)](https://docs.fivem.net/natives/?_0x29B487C359E19889)
 
 # Installation
-Drag & drop the folder named "infinity-world" into your server's resource folder, and ensure it in your server.cfg
+Drag & drop the folder named "synergy-world" into your server's resource folder, and ensure it in your server.cfg
 
 # Dependencies
 [ox_lib](https://github.com/overextended/ox_lib)
